@@ -96,7 +96,6 @@ define Package/shadowsocks-libev-ss-rules
 	   +ucode-mod-fs \
 	   +shadowsocks-libev-ss-redir \
 	   +shadowsocks-libev-config \
-	   +kmod-nft-tproxy
 endef
 
 define Package/shadowsocks-libev-ss-rules/install
